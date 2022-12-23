@@ -9,7 +9,6 @@
 test_import <- function(){
 
 
+  HandlingLicorFiles::create_directories()
   #made the directories
 }
-
-
